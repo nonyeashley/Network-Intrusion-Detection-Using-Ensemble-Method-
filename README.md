@@ -3,6 +3,7 @@ This project implements standalone supervised machine learning models against en
 Dataset Description
 
 Source: I sourced this dataset from a Public domain, curated by researchers from Ontario Tech University Canada. 
+
 Link: https://sites.google.com/view/iot-network-intrusion-dataset
 
 Size: 625,783 rows and 86 columns of which ghe data contains a greater number of attack traffic than normal.
